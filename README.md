@@ -1,4 +1,11 @@
-## Hi there 👋
+# Welcome :star2:
+
+Webアプリ開発を主に、IT知識、スキルを学習中です :beginner:
+
+## 制作品
+
+メモ帳アプリ：  [memo](https://github.com/kohei-sa46/memo)
+
 
 <!--
 **kohei-sa46/kohei-sa46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
